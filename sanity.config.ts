@@ -5,7 +5,7 @@ import {schemaTypes} from './schemaTypes'
 
 export default defineConfig({
   name: 'default',
-  title: 'Mademoiselle-Emma-Beauty-cms',
+  title: 'MADEMOISELLE EMMA BEAUTY CMS',
 
   projectId: 'loyf1vz1',
   dataset: 'production',
